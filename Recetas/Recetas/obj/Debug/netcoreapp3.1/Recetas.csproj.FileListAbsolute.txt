@@ -1,0 +1,16 @@
+C:\Users\scepn\source\repos\Recetas\Recetas\bin\Debug\netcoreapp3.1\Recetas.exe
+C:\Users\scepn\source\repos\Recetas\Recetas\bin\Debug\netcoreapp3.1\Recetas.deps.json
+C:\Users\scepn\source\repos\Recetas\Recetas\bin\Debug\netcoreapp3.1\Recetas.runtimeconfig.json
+C:\Users\scepn\source\repos\Recetas\Recetas\bin\Debug\netcoreapp3.1\Recetas.runtimeconfig.dev.json
+C:\Users\scepn\source\repos\Recetas\Recetas\bin\Debug\netcoreapp3.1\Recetas.dll
+C:\Users\scepn\source\repos\Recetas\Recetas\bin\Debug\netcoreapp3.1\Recetas.pdb
+C:\Users\scepn\source\repos\Recetas\Recetas\obj\Debug\netcoreapp3.1\Recetas.csprojAssemblyReference.cache
+C:\Users\scepn\source\repos\Recetas\Recetas\obj\Debug\netcoreapp3.1\Recetas.Form1.resources
+C:\Users\scepn\source\repos\Recetas\Recetas\obj\Debug\netcoreapp3.1\Recetas.Properties.Resources.resources
+C:\Users\scepn\source\repos\Recetas\Recetas\obj\Debug\netcoreapp3.1\Recetas.csproj.GenerateResource.cache
+C:\Users\scepn\source\repos\Recetas\Recetas\obj\Debug\netcoreapp3.1\Recetas.AssemblyInfoInputs.cache
+C:\Users\scepn\source\repos\Recetas\Recetas\obj\Debug\netcoreapp3.1\Recetas.AssemblyInfo.cs
+C:\Users\scepn\source\repos\Recetas\Recetas\obj\Debug\netcoreapp3.1\Recetas.csproj.CoreCompileInputs.cache
+C:\Users\scepn\source\repos\Recetas\Recetas\obj\Debug\netcoreapp3.1\Recetas.dll
+C:\Users\scepn\source\repos\Recetas\Recetas\obj\Debug\netcoreapp3.1\Recetas.pdb
+C:\Users\scepn\source\repos\Recetas\Recetas\obj\Debug\netcoreapp3.1\Recetas.genruntimeconfig.cache

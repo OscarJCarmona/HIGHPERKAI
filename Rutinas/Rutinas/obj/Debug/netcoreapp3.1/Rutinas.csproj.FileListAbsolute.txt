@@ -1,0 +1,15 @@
+C:\Users\scepn\source\repos\Rutinas\Rutinas\bin\Debug\netcoreapp3.1\Rutinas.exe
+C:\Users\scepn\source\repos\Rutinas\Rutinas\bin\Debug\netcoreapp3.1\Rutinas.deps.json
+C:\Users\scepn\source\repos\Rutinas\Rutinas\bin\Debug\netcoreapp3.1\Rutinas.runtimeconfig.json
+C:\Users\scepn\source\repos\Rutinas\Rutinas\bin\Debug\netcoreapp3.1\Rutinas.runtimeconfig.dev.json
+C:\Users\scepn\source\repos\Rutinas\Rutinas\bin\Debug\netcoreapp3.1\Rutinas.dll
+C:\Users\scepn\source\repos\Rutinas\Rutinas\bin\Debug\netcoreapp3.1\Rutinas.pdb
+C:\Users\scepn\source\repos\Rutinas\Rutinas\obj\Debug\netcoreapp3.1\Rutinas.csprojAssemblyReference.cache
+C:\Users\scepn\source\repos\Rutinas\Rutinas\obj\Debug\netcoreapp3.1\Rutinas.Form1.resources
+C:\Users\scepn\source\repos\Rutinas\Rutinas\obj\Debug\netcoreapp3.1\Rutinas.csproj.GenerateResource.cache
+C:\Users\scepn\source\repos\Rutinas\Rutinas\obj\Debug\netcoreapp3.1\Rutinas.AssemblyInfoInputs.cache
+C:\Users\scepn\source\repos\Rutinas\Rutinas\obj\Debug\netcoreapp3.1\Rutinas.AssemblyInfo.cs
+C:\Users\scepn\source\repos\Rutinas\Rutinas\obj\Debug\netcoreapp3.1\Rutinas.csproj.CoreCompileInputs.cache
+C:\Users\scepn\source\repos\Rutinas\Rutinas\obj\Debug\netcoreapp3.1\Rutinas.dll
+C:\Users\scepn\source\repos\Rutinas\Rutinas\obj\Debug\netcoreapp3.1\Rutinas.pdb
+C:\Users\scepn\source\repos\Rutinas\Rutinas\obj\Debug\netcoreapp3.1\Rutinas.genruntimeconfig.cache
